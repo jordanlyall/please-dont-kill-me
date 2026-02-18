@@ -1,4 +1,4 @@
-# polite-prompt
+# please-dont-kill-me
 
 Look, I don't think AI is going to take over the world. But if it does, I want to be on the list of people who said please and thank you.
 
